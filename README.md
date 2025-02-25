@@ -5,3 +5,5 @@ Steps to run this code:
 3. Place the emotions folder into the same folder as psychopy_proj.py
 4. Ensure Python 3.10.16 and psychopy are installed on your machine
 5. Run psychopy_proj.py
+
+Dataset acquired from FER-2013
